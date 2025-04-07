@@ -1,0 +1,1 @@
+injured by [[cold]] and [[fear]]

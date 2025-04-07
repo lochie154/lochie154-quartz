@@ -1,0 +1,8 @@
+[[center]]
+[[late afternoon]]
+[[transition]]
+[[late summer]]
+[[spleen]]
+[[stomach]]
+engenders [[metal]]
+controls [[water]]

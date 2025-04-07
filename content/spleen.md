@@ -1,0 +1,1 @@
+injured by [[dampness]] and [[rumination]]

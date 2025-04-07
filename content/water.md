@@ -1,0 +1,8 @@
+[[north]]
+[[midnight]]
+[[slumber]]
+[[winter]]
+[[urinary bladder]]
+[[kidney]]
+engenders [[wood]]
+controls [[fire]]

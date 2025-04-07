@@ -1,0 +1,8 @@
+[[west]]
+[[dusk]]
+[[quieting]]
+[[autumn]]
+[[lung]]
+[[large intestine]]
+engenders [[water]]
+controls [[wood]]

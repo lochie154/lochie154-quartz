@@ -1,0 +1,5 @@
+peaks at [[midday]]
+[[heat]]
+[[dryness]]
+[[fire]]
+[[external]]

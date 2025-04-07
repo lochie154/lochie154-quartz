@@ -1,0 +1,1 @@
+injured by [[heat]] and [[joy]]

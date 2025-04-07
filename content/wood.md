@@ -1,0 +1,8 @@
+[[east]]
+[[dawn]]
+[[awakening]]
+[[spring]]
+[[liver]]
+[[gallbladder]]
+engenders [[fire]]
+controls [[earth]]

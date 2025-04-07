@@ -1,0 +1,1 @@
+injured by [[dryness]] and [[sorrow]]

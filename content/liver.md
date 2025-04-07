@@ -1,0 +1,1 @@
+injured by [[wind]] and [[anger]]

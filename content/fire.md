@@ -1,0 +1,8 @@
+[[south]]
+[[midday]]
+[[wakefullness]]
+[[summer]]
+[[small intestine]]
+[[heart]]
+engenders [[earth]]
+controls [[metal]]
