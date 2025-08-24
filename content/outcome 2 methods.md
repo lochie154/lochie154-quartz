@@ -1,1 +1,1 @@
-<iframe src="/apps/methods2.html" width="100%" height="1200" style="border:0"></iframe>
+<iframe src="/apps/random.html" width="100%" height="1200" style="border:0"></iframe>
