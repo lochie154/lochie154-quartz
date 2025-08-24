@@ -1,1 +1,1 @@
-click [here](/apps/random.html) for the interactive lesson
+click [here](random.html) for the interactive lesson
