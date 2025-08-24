@@ -1,1 +1,1 @@
-click [here](/lochie154-quartz/static/random.html) for the interactive lesson if you dare
+click [here](/static/random.html) for the interactive lesson if you dare
