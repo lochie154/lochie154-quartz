@@ -1,1 +1,1 @@
-click [here](/lochie154-quartz/apps/random.html) for the interactive lesson if you dare
+<iframe src="/apps/methods2.html" width="100%" height="1200" style="border:0"></iframe>
