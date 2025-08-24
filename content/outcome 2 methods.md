@@ -1,1 +1,1 @@
-click [here](/static/random.html) for the interactive lesson if you dare
+click [here](random.html) for the interactive lesson if you dare
