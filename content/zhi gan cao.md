@@ -1,0 +1,1 @@
+Glycyrrhiza uralensis
